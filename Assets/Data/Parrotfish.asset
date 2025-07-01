@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da965973d3f4efb4cafa264bb0dcd4d9, type: 3}
+  m_Name: Parrotfish
+  m_EditorClassIdentifier: 
+  fishName: Loro
+  fishScientificName: Scarus psittacus
+  fishLocation: Saltwater
+  fishDescription: 'Loro, or Parrotfish, are marine fish, meaning they live in saltwater
+    environments, specifically tropical and subtropical waters. They are commonly
+    found in shallow waters near coral reefs, rocky coastlines, and seagrass beds. '
+  fishSprite: {fileID: 1792899698, guid: 67c6901a321109d42a3420b292e8311a, type: 3}
+  fishModel: {fileID: 3970629186855685629, guid: c5bb1e4f1a1a2e44eadaf5948f455c20, type: 3}
